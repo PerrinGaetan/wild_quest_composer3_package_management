@@ -1,0 +1,12 @@
+{
+    "name": "ibanez2/wild_quest_composer3_package_management",
+    "authors": [
+        {
+            "name": "PerrinGaetan",
+            "email": "perringaetandu31@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
